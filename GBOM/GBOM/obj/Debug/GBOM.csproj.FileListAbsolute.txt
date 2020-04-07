@@ -1,0 +1,17 @@
+C:\Projets\VISUAL\Gestion_BOM\GBOM\GBOM\bin\Debug\GBOM.exe.config
+C:\Projets\VISUAL\Gestion_BOM\GBOM\GBOM\bin\Debug\GBOM.exe
+C:\Projets\VISUAL\Gestion_BOM\GBOM\GBOM\bin\Debug\GBOM.pdb
+C:\Projets\VISUAL\Gestion_BOM\GBOM\GBOM\obj\Debug\GBOM.csprojAssemblyReference.cache
+C:\Projets\VISUAL\Gestion_BOM\GBOM\GBOM\obj\Debug\GBOM.Properties.Resources.resources
+C:\Projets\VISUAL\Gestion_BOM\GBOM\GBOM\obj\Debug\GBOM.csproj.GenerateResource.cache
+C:\Projets\VISUAL\Gestion_BOM\GBOM\GBOM\obj\Debug\GBOM.csproj.CoreCompileInputs.cache
+C:\Projets\VISUAL\Gestion_BOM\GBOM\GBOM\obj\Debug\GBOM.exe
+C:\Projets\VISUAL\Gestion_BOM\GBOM\GBOM\obj\Debug\GBOM.pdb
+C:\Projets\VISUAL\Gestion_BOM\GBOM\GBOM\bin\Debug\Newtonsoft.Json.dll
+C:\Projets\VISUAL\Gestion_BOM\GBOM\GBOM\bin\Debug\Newtonsoft.Json.pdb
+C:\Projets\VISUAL\Gestion_BOM\GBOM\GBOM\bin\Debug\Newtonsoft.Json.xml
+C:\Projets\VISUAL\Gestion_BOM\GBOM\GBOM\obj\Debug\GBOM.csproj.CopyComplete
+C:\Projets\VISUAL\Gestion_BOM\GBOM\GBOM\obj\Debug\GBOM.Form1.resources
+C:\Projets\VISUAL\Gestion_BOM\GBOM\GBOM\obj\Debug\GBOM.Remplacement.resources
+C:\Projets\VISUAL\Gestion_BOM\GBOM\GBOM\bin\Debug\CsvHelper.dll
+C:\Projets\VISUAL\Gestion_BOM\GBOM\GBOM\bin\Debug\CsvHelper.xml

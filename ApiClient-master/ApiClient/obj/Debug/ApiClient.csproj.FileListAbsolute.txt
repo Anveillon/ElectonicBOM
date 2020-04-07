@@ -1,0 +1,2 @@
+C:\Projets\VISUAL\Gestion_BOM\ApiClient-master\ApiClient\obj\Debug\ApiClient.csprojAssemblyReference.cache
+C:\Projets\VISUAL\Gestion_BOM\ApiClient-master\ApiClient\obj\Debug\ApiClient.csproj.CoreCompileInputs.cache
