@@ -1,0 +1,48 @@
+Qty;Value;Desc;Ref;Mfg;Parts;Mouser Qte;Mouser Ref
+1;;DEL standard - CMS WL-SFTW SMD TOP SMD 3528 RGB;150352M173300;Wurth Electronics;D1;10;710-150352M173300
+1;;WS-TASV J-Bend Tact Switch;4.34E+11;Wurth Electronics;S1;-1;
+5;0;R?sistances ? couches ?paisses - CMS 1/10watt ZEROohm Jumper;CRCW06030000Z0EA;Vishay;R8, R16, R18, R27, R28;50;71-CRCW0603-0-E3
+2;0.47u;Condensateurs c?ramique multicouches MLCC - CMS 0603 25V 0.47uF 10% X5R;TMK107BJ474KA-T;Taiyo Yuden;C24, C27;0;
+1;1.8n;Condensateurs c?ramique multicouches MLCC - CMS 50V 1800pF X7R 0603 10%;06035C182KAT2A;AVX;C19;10;581-06035C182K
+3;100;R?sistances ? couches ?paisses - CMS 1/10watt 100ohms 1%;CRCW0603100RFKEA;Vishay;R3, R4, R17;0;
+3;100k;R?sistances ? couches ?paisses - CMS 1/10watt 100Kohms 1%;CRCW0603100KFKEA;Vishay;R7, R21, R26;30;71-CRCW0603-100K-E3
+9;100n;MLCC - CMS 0603 0.1uF 50volts X7R 10%;C0603C104K5RACAUTO7411;Murata Electronics;C1, C3, C8, C13, C16, C28, C30, C32, C34;90;80-C0603C104K5RAUTLR
+3;100p;MLCC - CMS 100pF 50V X7R 10%;CC0603KRX7R9BB101;Yageo;C10, C14, C20;30;603-CC603KRX7R9BB101
+4;10k;R?sistances ? couches ?paisses - CMS 1/10watt 10Kohms 1%;CRCW060310K0FKEA;Vishay;R6, R10, R13, R31;40;71-CRCW0603-10K-E3
+6;10n;Condensateurs c?ramique multicouches MLCC - CMS 0603 0.01uF 50volts X7R 10%;GCD188R71H103KA01D;Murata Electronics;C25, C26, C37, C7, C9, C15;60;81-GCD188R71H103KA1D
+4;10u;MLCC - CMS 0603 10uF 35volts X5R 20%;GRM188R6YA106MA73J;Murata Electronics;C12, C29, C31, C33;40;81-GRM188R6YA106MA3J
+1;110;R?sistances ? couches ?paisses - CMS 1/10watt 110ohms 1%;CRCW0603110RFKEA;Vishay;R25;10;71-CRCW0603-110-E3
+1;150;R?sistances ? couches ?paisses - CMS 1/10watt 150ohms 1%;CRCW0603150RFKEA;Vishay;R30;10;71-CRCW0603-150-E3
+2;1M;R?sistances ? couches ?paisses - CMS 1/10watt 1.0Mohms 1%;CRCW06031M00FKEA;Vishay;R22, R23;20;71-CRCW0603-1.0M-E3
+2;1k;R?sistances ? couches ?paisses - CMS 1/10watt 1.0Kohms 1%;CRCW06031K00FKEA;Vishay;R12, R24;20;71-CRCW0603-1.0K-E3
+1;1n;MLCC - CMS 6.3volts 1000pF 10% X7R;C0603C102K9RACTU;Kemet;C11;10;80-C0603C102K9R
+5;1u;Condensateurs c?ramique multicouches MLCC - CMS 0603 16VDC 1uF 20% X5R;EMK107BJ105MAHT;Taiyo Yuden;C21, C35, C36, C38, C5;50;963-EMK107BJ105MAHT
+1;2.2k;R?sistances ? couches ?paisses - CMS 1/10watt 2.2Kohms 1%;CRCW06032K20FKTA;Vishay;R34;10;71-CRCW0603-2.2K
+1;20k;R?sistances ? couches ?paisses - CMS 1/10watt 20Kohms 1%;CRCW060320K0FKEA;Vishay;R29;10;71-CRCW0603-20K-E3
+2;22n;Condensateurs c?ramique multicouches MLCC - CMS 0603 0.022uF 50volts X7R 10%;GCE188R71H223KA01D;Murata Electronics;C22, C23;0;
+3;22u;MLCC - CMS 0603 22uF 6.3volts *Derate Voltage/Temp;GRM186R60J226ME15D;Murata Electronics;C2, C4, C6;30;81-GRM186R60J226ME5D
+1;24LC16BE;16K I2C Serial EEPROM;24LC16BHT-I/OT;Microchip;U4;10;579-24LC16BHT-I/OT
+1;267k;R?sistances ? couches ?paisses - CMS 1/10watt 267Kohms 1%;CRCW0603267KFKEA;Vishay;R33;10;71-CRCW0603-267K-E3
+2;2M;R?sistances ? couches ?paisses - CMS Res 0603 2M 1% 100mW TC200;AC0603FR-072ML;Yageo;R2, R32;20;603-AC0603FR-072ML
+2;39.2k;R?sistances ? couches ?paisses - CMS 1/10watt 39.2Kohms 1%;CRCW060339K2FKEA;Vishay;R14, R15;20;71-CRCW0603-39.2K-E3
+2;4.7k;R?sistances ? couches ?paisses - CMS 1/10watt 4.7Kohms 1%;CRCW06034K70FKEA;Vishay;R19, R20;20;71-CRCW0603-4.7K-E3
+1;470;R?sistances ? couches ?paisses - CMS 1/10watt 470ohms 1%;CRCW0603470RFKEA;Vishay;R11;10;71-CRCW0603-470-E3
+1;47n;Condensateurs c?ramique multicouches MLCC - CMS 50V .047uF X7R 0603 20% Tol;06035C473M4T2A;AVX;C18;Aucun;
+2;600O@100MHz;WE-CBF SMT EMI Suppression Ferrite Bead;742792651;Wurth Electronics;L1, L2;20;710-742792651
+1;604k;R?sistances ? couches ?paisses - CMS 1/10watt 604Kohms 1%;CRCW0603604KFKEA;Vishay;R1;0;
+1;634;R?sistances ? couches ?paisses - CMS 1/10watt 634ohms 1%;CRCW0603634RFKEA;Vishay;R5;10;71-CRCW0603-634-E3
+1;6,65306E+11;"Embases et logements de c?bles WR-WTB SMT Male 1mm Vtcl Beige 06p ";6,65306E+11;Wurth Electronics;K1;-1;
+1;68n;Condensateurs c?ramique multicouches MLCC - CMS 50V 206uF X7R 0603 20% AEC-Q200;06035C683M4T2A;AVX;C17;10;581-06035C683M4T2A
+1;BAS40-05;Diodes et redresseurs Schottky 40V 350mW;BAS40-05-7-F;Diodes Incorporated;D2;10;621-BAS40-05-F
+1;BLE112;module Bleutooth;BLE112E;BlueGiga;U1;-1;
+2;BM02B-SRSS-TB;SR/SZ 1.0mm pitch/Disconnectable Insulation displacement connectors;BM02B-SRSS-TB;JST;X1, X2;-1;
+1;BQ51013B;bq51013B Highly Integrated Wireless Receiver Qi (WPC v1.2) Compliant Power Supply;BQ51013BRHLR;Texas Instruments;U5;10;595-BQ51013BRHLR
+1;BSS123L;MOSFET FET 100V 3.5 OHM SOT23;BSS123L;ON Semiconductor / Fairchild;T2;10;512-BSS123L
+1;BSS315;MOSFET P-Ch -30V -1.5A SOT-23-3;BSS315PH6327XTSA1;Infineon Technologies;T1;10;726-BSS315PH6327
+1;DMP2240UDM;"20V, 2A, MOSFET Dual P-Channel ";DMP2240UDM-7;Diodes Incorporated;T3;10;621-DMP2240UDM-7
+1;LDLN030G33R;3.3v 300 mA ultra low-noise LDO with Power Good and soft-start;LDLN030G33R;ST microelectronics;U8;10;511-LDLN030G33R
+1;LTC4054-4.2;Standalone Linear Li-Ion Battery Charger with Thermal Regulation in ThinSOT;LTC4054ES5-4.2;Linear Technology;U6;;
+1;NC7WZ07;NC7WZ07TinyLogic?UHS Dual Buffer (Open-Drain Outputs);NC7WZ07P6X;ON Semiconductor / Fairchild;U2;10;512-NC7WZ07P6X
+1;PGA309;Voltage Output Programmable Sensor Conditioner;PGA309AIPWR;Texas Instruments;U3;10;595-PGA309AIPWR
+1;TPS3711DCCR;TPS3711 36-V Voltage Detector;TPS3711DDCR;Texas Instruments;U7;10;595-TPS3711DDCR
+1;;WE-WPCC Wireless PowerCharging Receiver Coil;7.60E+11;Wurth Electronics;COIL;-1;
